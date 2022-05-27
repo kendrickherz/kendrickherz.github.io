@@ -1,5 +1,4 @@
 baseURL: https://kendrickherz.github.io
-
 languageCode: en-us
 title: "John's Blog"
 theme: "toha"
@@ -35,4 +34,4 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: False
