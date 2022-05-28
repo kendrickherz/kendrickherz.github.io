@@ -22,6 +22,8 @@ enableEmoji: true
 
 # Site parameters
 params:
+  # background
+  Background: images/wall-toulouse.jpg
   # GitHub repo URL of your site
   gitRepo: https://github.com/kendrickherz/portfolio.git
 
