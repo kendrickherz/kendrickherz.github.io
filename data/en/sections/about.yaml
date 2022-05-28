@@ -40,31 +40,31 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Toulouse School Of Economics
-  url: "https://www.tse-fr.eu/about?lang=en"
-  logo: "/images/sections/about/tse.png"
-
-- type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  name: French National Assembly
+  url: "https://www2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly"
   badge: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_de_l%27Assembl%C3%A9e_nationale_fran%C3%A7aise.svg/1017px-Logo_de_l%27Assembl%C3%A9e_nationale_fran%C3%A7aise.svg.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Toulouse School Of Economics
+  url: "https://www.tse-fr.eu/about?lang=en"
+  badge: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/TSE_Logo_2019.png/1200px-TSE_Logo_2019.png"
+
+- type: certification
+  name: Toulouse 1 Capitole University
+  url: "https://www.ut-capitole.fr/home/"
+  badge: "https://intranet.ut-capitole.fr/medias/photo/ut1c-logo-fr-rvb-128x128_1651152658458-jpg"
 
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
+  name: Public Policy
+  percentage: 100
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
+  name: Data Analysis
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: Micro-Simulation
+  percentage: 100
   color: orange
