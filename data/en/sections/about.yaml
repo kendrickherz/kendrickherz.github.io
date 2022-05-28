@@ -35,6 +35,10 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/kendrick-herzberg"
 
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/kendrick_herzberg/"
+
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
@@ -47,7 +51,7 @@ badges:
 - type: certification
   name: Toulouse School Of Economics
   url: "https://www.tse-fr.eu/about?lang=en"
-  badge: "https://raw.githubusercontent.com/kendrickherz/kendrickherz.github.io/source/assets/images/sections/about/tse.png"
+  badge: "https://raw.githubusercontent.com/kendrickherz/kendrickherz.github.io/source/assets/images/sections/about/TSE_Logo_2019.png"
 
 - type: certification
   name: Toulouse 1 Capitole University
