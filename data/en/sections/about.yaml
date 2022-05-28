@@ -47,7 +47,7 @@ badges:
 - type: certification
   name: Toulouse School Of Economics
   url: "https://www.tse-fr.eu/about?lang=en"
-  badge: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/TSE_Logo_2019.png/1200px-TSE_Logo_2019.png"
+  badge: "https://raw.githubusercontent.com/kendrickherz/kendrickherz.github.io/source/assets/images/sections/about/tse.png"
 
 - type: certification
   name: Toulouse 1 Capitole University
