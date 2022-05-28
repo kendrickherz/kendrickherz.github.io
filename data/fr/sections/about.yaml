@@ -1,0 +1,74 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Junior Economist
+# your company information
+company:
+  name: French National Assembly
+  url: "https://www2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: "I am an economist with a strong appetency for data science. I have a master's degree from the [Toulouse School of Economics](https://www.tse-fr.eu/about?lang=en) and am currently working on a micro-simulation model of the French National Assembly."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "herzbergkendrick@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/kendrickherz"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/kendrick-herzberg"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/kendrick_herzberg/"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: French National Assembly
+  url: "https://www2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly"
+  badge: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_de_l%27Assembl%C3%A9e_nationale_fran%C3%A7aise.svg/1017px-Logo_de_l%27Assembl%C3%A9e_nationale_fran%C3%A7aise.svg.png"
+
+- type: certification
+  name: Toulouse School Of Economics
+  url: "https://www.tse-fr.eu/about?lang=en"
+  badge: "https://raw.githubusercontent.com/kendrickherz/kendrickherz.github.io/source/assets/images/sections/about/TSE_Logo_2019.png"
+
+- type: certification
+  name: Toulouse 1 Capitole University
+  url: "https://www.ut-capitole.fr/home/"
+  badge: "https://intranet.ut-capitole.fr/medias/photo/ut1c-logo-fr-rvb-128x128_1651152658458-jpg"
+
+- type: soft-skill-indicator
+  name: Public Policy
+  percentage: 100
+  color: blue
+
+- type: soft-skill-indicator
+  name: Data Analysis
+  percentage: 100
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Micro-Simulation
+  percentage: 100
+  color: orange

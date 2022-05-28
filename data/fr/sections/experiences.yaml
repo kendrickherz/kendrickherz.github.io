@@ -1,0 +1,69 @@
+# section information
+section:
+  name: Expériences
+  id: experiences
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Assemblée Nationale, Direction du Contrôle et de l'Évaluation
+    url: "https://www.assemblee-nationale.fr/"
+    location: Paris, France
+    # company overview
+    overview: Je travaille à LexImpact. C'est un service qui crée des outils de micro-simulation dont le but est d'aider les parlementaires
+     à quantifier leurs amendements et projets de loi dans les domaines de la fiscalité et des affaires sociales.
+  positions:
+  - designation: Économiste Junior
+    start: Mars 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Travailler sur Open-Fisca, un logiciel libre de micro-simulation, modélisant le système socio-fiscal français.
+    - Modéliser et étudier l'effet de la taxe intérieure de consommation sur les produits énergétiques (TICPE) au niveau individuel et agrégé.
+- company:
+    name: Université Toulouse 1 Capitole
+    url: "https://www.ut-capitole.fr/accueil/"
+    location: Toulouse, France
+    overview: L'université Toulouse 1 Capitole est classée 1ère des universités françaises et 22ème du classement Shangaï en "sciences sociales économiques", en 2021.
+     J'enseigne le cours de [Microeconomie de la production](https://www.ut-capitole.fr/formations/nos-diplomes/licences/licence-l1-l2-mention-economie-parcours-type-economie-et-gestion-310345.kjsp)
+      de la Licence d'Économie et de Gestion. Le professeur référent est Madame Lucie Bottega (Lucie.Bottega@ut-capitole.fr).
+  positions:
+  - designation: Chargé de travaux dirigés, Microeconomie de la Production
+    start: Janvier 2022
+    responsibilities:
+    - Enseigner à 2 groupes d'étudiants de 1ère année.
+    - Assurer la surveillance des examens.
+    - Corriger et noter les devoirs et les examens.
+
+- company:
+    name: Université Toulouse 1 Capitole
+    url: "https://www.ut-capitole.fr/accueil/"
+    location: Toulouse, France
+    overview: J'enseignais le cours de [Microeconomie 1](https://www.ut-capitole.fr/formations/nos-diplomes/licences/licence-l1-l2-mention-economie-parcours-type-economie-et-gestion-310345.kjsp)
+     de la Licence d'Économie et de Gestion. Le professeur référent etait Monsieur Philipps Alby (philipe.alby@tse-fr.eu).
+  positions:
+  - designation: Chargé de travaux dirigés, Microeconomie 1
+    start: Septembre 2021
+    end: Decembre 2021
+
+- company:
+    name:  Centre d’Économie et de Management de l’Océan Indien (CEMOI)
+    url: "https://cemoi.univ-reunion.fr/"
+    location: Iles de la Réunion, France
+    overview:  J'ai participé au projet ["NEWTS"](http://www.waterjpi.eu/joint-calls/joint-call-2018-waterworks-2017/booklet/newts-1) (Nudges for Economics of Water tariffs).
+     Il vise à fournir une évaluation socio-économique des politiques de nudge vert, en se concentrant sur la maîtrise de la consommation d'eau
+      et la bonne compréhension par les ménages du système de tarification.
+  positions:
+  - designation: Assistant de recherche
+    start: Mars 2021
+    end: Juin 2021
+    responsibilities:
+    - Analyse de la performance des politiques de gestion de la demande en eau dans le domaine de l'efficacité économique.
+    - Création d'un modèle microéconomique incluant l'introduction d'une campagne de nudge.
+    - Création d'une page web en [Django](https://www.djangoproject.com/) calculant des indicateurs économiques à partir de variables exogènes.

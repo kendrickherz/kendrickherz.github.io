@@ -36,7 +36,7 @@ experiences:
       in the Economics and Management Degree. The referent professor is Lucie Bottega (Lucie.Bottega@ut-capitole.fr).
   positions:
   - designation: Teaching Assistant, Microeconomics of Production
-    start: March 2021
+    start: January 2022
     # end: June 2021
     responsibilities:
     - Teach 2 groups of 1st year students.
@@ -53,16 +53,12 @@ experiences:
   - designation: Teaching Assistant, Microeconomics 1
     start: September 2021
     end: December 2021
-    # responsibilities:
-    # - Write lots of example codes.
-    # - Read lots of examples.
-    # - See lots of example videos.
 
 - company:
-    name: CENTER FOR ECONOMICS AND MANAGEMENT OF THE INDIAN OCEAN (CEMOI)
+    name: Center for Economics and Management of the Indian Ocean (CEMOI)
     url: "https://cemoi.univ-reunion.fr/"
-    location: Reunion Island, france
-    overview:  I took part of ”NEWTS” project (Nudges for Economics of Water tariffs).
+    location: Reunion Island, France
+    overview:  I took part of [”NEWTS”](http://www.waterjpi.eu/joint-calls/joint-call-2018-waterworks-2017/booklet/newts-1) project (Nudges for Economics of Water tariffs).
      It aims to provide a socio-economic assessment of green nudging policies, focusing on water consumption controlling
       and proper understanding by the households of the charging system.
   positions:
