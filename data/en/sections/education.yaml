@@ -10,81 +10,114 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
-  institution:
-    name: ABC University of Technology
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
+- name: Master’s Degree in Environmental and Natural Resource Economics – Energy and Environmental Policy (ERNA - EEP)
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2021-2022
   institution:
-    name: University of XYZ
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
+    name: Toulouse School of Economics (TSE)
+    url: "https://www.tse-fr.eu/erna?lang=en"
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 3.6
+  #   outOf: 4
+  # publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   url: "#"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
+  # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #   url: "#"
+     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
+    showGrades: True
+    collapseAfter: 4
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
+    - name: Fundamentals and Policies for a Greener Economy
+      achieved: 15
+      outOf: 20
+    - name: Infrastructure and Development
+      achieved: 15
+      outOf: 20
+    - name: Ecosystem Management and Policies
+      achieved: 15.5
+      outOf: 20
+    - name: Energy Economics and Climate Policy
+      achieved: 14.5
+      outOf: 20
+    - name: Valuing the Environment
+      achieved: 13
+      outOf: 20
+    - name: Sustainable Development
+      achieved: 14
+      outOf: 20
+    - name: Datanomics
+      achieved: 18
+      outOf: 20
+    - name: Cost Benefit Analysis, Foundations and Practice
+      achieved: 11.75
+      outOf: 20
+    - name: Topics in Environmental Economics
+      achieved: 13
+      outOf: 20
+- name: Master’s degree in Economics - International track
+  icon: fa-graduation-cap
+  timeframe: 2020-2021
+  institution:
+    name: Toulouse School of Economics (TSE)
+    url: "https://www.tse-fr.eu/erna?lang=en"
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 3.5
+  #   outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: False
+    collapseAfter: 5
+    courses:
+    - name: Advanced Microeconomics
+    - name: Game Theory
+    - name: Intermediate Econometrics
+    - name: Behaviorial and Experimental economics
+    - name: Program Evaluation
+    - name: Applied Econometrics
+    - name: R programming
+    - name: Environmental economics
+    - name: Markov Chains and applications
+    - name: Public economics
+    - name: Macroeconomics
+    - name: Theory of Incentives
+    - name: Economics of Human Development
+    - name: Environmental & Resource Economics
+  # publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   url: "#"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
+  - Professional Development module.
+  - sports activity 'Coaching Forme'.
+- name: bachelor’s degree in economics
   icon: fa-university
-  timeframe: 2010-2012
+  timeframe: 2017-2020
   institution:
-    name: MST College of Science
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
+    name: Toulouse 1 Capitole University
+    url: "https://www.tse-fr.eu/fr/licence-3-economie"
+  # grade: #(optional)
+  #   scale: GPA
+  #   achieved: 5
+  #   outOf: 5
+  # extracurricularActivities: #(optional)
+  # - In vitae facilisis est, eget porta sem.
+  # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  # - Duis sed massa feugiat, ornare justo et, aliquam est.
+  # - Pellentesque ut fringilla magna.
+- name: French high-school degree
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2013-2016
   institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    name: General High School Pierre Bourdieu
+  # grade: #(optional)
+  #   scale: GPA
+  #   achieved: 4.5
+  #   outOf: 5
