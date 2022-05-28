@@ -18,7 +18,10 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am an economist with a strong appetency for data science. I have a master's degree from the [Toulouse School of Economics](https://www.tse-fr.eu/about?lang=en) and am currently working on a micro-simulation model of the French National Assembly."
+summary: "I am an economist with a strong appetency for data science.
+ I have a master's degree from [Toulouse School of Economics](https://www.tse-fr.eu/about?lang=en)
+  and am currently working on a micro-simulation model of the French National Assembly."
+
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -45,7 +48,7 @@ socialLinks:
 badges:
 - type: certification
   name: French National Assembly
-  url: "https://www2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly"
+  url: "https://www.assemblee-nationale.fr/"
   badge: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_de_l%27Assembl%C3%A9e_nationale_fran%C3%A7aise.svg/1017px-Logo_de_l%27Assembl%C3%A9e_nationale_fran%C3%A7aise.svg.png"
 
 - type: certification

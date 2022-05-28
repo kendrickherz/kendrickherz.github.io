@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: À propos
   id: about
   enable: true
   weight: 1
@@ -8,17 +8,19 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Junior Economist
+designation: Économiste Junior
 # your company information
 company:
-  name: French National Assembly
-  url: "https://www2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly"
+  name: Assemblée Nationale
+  url: https://www.assemblee-nationale.fr/
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I am an economist with a strong appetency for data science. I have a master's degree from the [Toulouse School of Economics](https://www.tse-fr.eu/about?lang=en) and am currently working on a micro-simulation model of the French National Assembly."
+summary: "Je suis un économiste avec une forte appétence pour la data science.
+ Je suis diplômé d'un master de la [Toulouse School of Economics](https://www.tse-fr.eu/about?lang=en)
+  et je travaille actuellement sur un modèle de micro-simulation de l'Assemblée Nationale"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
