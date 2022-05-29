@@ -11,16 +11,52 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+# - name: Kubernetes
+#   logo: "/images/sections/skills/kubernetes.png"
+#   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+#   url: "https://kubernetes.io/"
 
-- name: Go Development
-  logo: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+# - name: Go Development
+#   logo: "/images/sections/skills/go.png"
+#   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+#   url: "https://golang.org/"
 
-- name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+# - name: Cloud Computing
+#   logo: "/images/sections/skills/cloud.png"
+#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+- name: Languages
+  logo:
+  summary:
+  url:
+  list:
+    - label: c++
+      icon: /images/sections/skills/c++.png
+      url:
+    - label: cloud
+      icon: /images/sections/skills/cloud.png
+      url:
+    - label: docker
+      icon: /images/sections/skills/docker.svg
+      url:
+    - label: git
+      icon: /images/sections/skills/git.png
+      url:
+    - label: Java
+      icon:
+      url:
+    - label: go
+      icon: /images/sections/skills/go.png
+      url:
+- name: Frameworks
+  logo:
+  summary: "-PyTorch<br/>-Keras<br/>-Django<br/>-Laravel<br/>-Bootstrap"
+  url:
+- name: Database
+  logo:
+  summary: "-MySql<br/>-Oracle<br/>"
+  url:
+- name: Tools
+  logo:
+  summary: "-Git<br/>-AndroidStudio<br/>-Matplotlib<br/>-Sklearn<br/>-Pandas"
+  url:
