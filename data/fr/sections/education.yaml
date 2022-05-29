@@ -2,7 +2,7 @@
 section:
   name: Éducation
   id: education
-  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  template: sections/educationPerso.html # Use "sections/education-alt.html for alternate template.
   enable: true
   weight: 5
   showOnNavbar: true
@@ -16,6 +16,8 @@ degrees:
   institution:
     name: Toulouse School of Economics (TSE)
     url: "https://www.tse-fr.eu/erna?lang=en"
+  mention: "Bien"
+  about: "J’ai participé au projet “NEWTS” (Nudges for Economics of Water tariffs). Il vise à fournir une évaluation socio-économique des politiques de nudge vert, en se concentrant sur la maîtrise de la consommation d’eau et la bonne compréhension par les ménages du système de tarification."
   # grade: #(optional)
   #   scale: CGPA
   #   achieved: 3.6
@@ -27,7 +29,7 @@ degrees:
   #   url: "#"
   # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
   #   url: "#"
-     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+  #    if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: True

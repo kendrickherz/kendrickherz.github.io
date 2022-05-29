@@ -23,6 +23,9 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+  blackfriday:
+    plainIDAnchors: true
+    hrefTargetBlank: true
 
 
 # Enable global emoji support
