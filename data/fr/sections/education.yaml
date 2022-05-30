@@ -36,32 +36,24 @@ degrees:
     collapseAfter: 4
     courses:
     - name: Fundamentals and Policies for a Greener Economy
-      achieved: 15
-      outOf: 20
+      outOf: 5.5
     - name: Infrastructure and Development
-      achieved: 15
-      outOf: 20
+      outOf: 5.5
     - name: Ecosystem Management and Policies
-      achieved: 15.5
-      outOf: 20
+      outOf: 5.5
     - name: Energy Economics and Climate Policy
-      achieved: 14.5
-      outOf: 20
+      # achieved: 14.5
+      outOf: 5.5
     - name: Valuing the Environment
-      achieved: 13
-      outOf: 20
+      outOf: 5.5
     - name: Sustainable Development
-      achieved: 14
-      outOf: 20
+      outOf: 5.5
     - name: Datanomics
-      achieved: 18
-      outOf: 20
+      outOf: 1
     - name: Cost Benefit Analysis, Foundations and Practice
-      achieved: 11.75
-      outOf: 20
+      outOf: 5.5
     - name: Topics in Environmental Economics
-      achieved: 13
-      outOf: 20
+      outOf: 5.5
 - name: Maitrise "Economics - International track"
   icon: fa-graduation-cap
   timeframe: 2020-2021
@@ -74,23 +66,37 @@ degrees:
   #   outOf: 4
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: False
+    showGrades: True
     collapseAfter: 5
     courses:
     - name: Advanced Microeconomics
+      outOf: 4
     - name: Game Theory
+      outOf: 5
     - name: Intermediate Econometrics
+      outOf: 5
     - name: Behaviorial and Experimental economics
+      outOf: 4
     - name: Program Evaluation
+      outOf: 5
     - name: Applied Econometrics
+      outOf: 6
     - name: R programming
+      outOf: 2
     - name: Environmental economics
+      outOf: 2
     - name: Markov Chains and applications
+      outOf: 2
     - name: Public economics
+      outOf: 5
     - name: Macroeconomics
+      outOf: 5
     - name: Theory of Incentives
+      outOf: 3
     - name: Economics of Human Development
+      outOf: 4
     - name: Environmental & Resource Economics
+      outOf: 4
   # publications: #(optional)
   # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #   url: "#"
