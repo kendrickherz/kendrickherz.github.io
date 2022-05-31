@@ -1,7 +1,7 @@
 baseURL: https://kendrickherz.github.io
 languageCode: en-us
 title: "Kendrick's page"
-theme: "toha"
+theme: "toha (slightly modified version by Kendrick Herzberg)"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/

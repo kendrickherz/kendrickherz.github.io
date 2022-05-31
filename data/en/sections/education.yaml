@@ -16,6 +16,8 @@ degrees:
   institution:
     name: Toulouse School of Economics (TSE)
     url: "https://www.tse-fr.eu/erna?lang=en"
+  mention: High Honors
+  about: "The master is taught entirely in English. It is providing the analytical skills to assess, analyse and recommend economic policies, while providing an advanced level of microeconomic and macroeconomic modeling and econometrics."
   # grade: #(optional)
   #   scale: CGPA
   #   achieved: 3.6
@@ -58,6 +60,8 @@ degrees:
   institution:
     name: Toulouse School of Economics (TSE)
     url: "https://www.tse-fr.eu/erna?lang=en"
+  mention: With Honors
+  about: "The master is taught entirely in English. It's a rigorous academic program in the different economic disciplines and quantitative techniques for social sciences."
   # grade: #(optional)
   #   scale: CGPA
   #   achieved: 3.5
@@ -109,6 +113,7 @@ degrees:
   institution:
     name: Toulouse 1 Capitole University
     url: "https://www.tse-fr.eu/fr/licence-3-economie"
+  mention: With Honors
   # grade: #(optional)
   #   scale: GPA
   #   achieved: 5
@@ -123,6 +128,7 @@ degrees:
   timeframe: 2013-2016
   institution:
     name: General High School Pierre Bourdieu
+  mention: High Honors
   # grade: #(optional)
   #   scale: GPA
   #   achieved: 4.5

@@ -30,33 +30,65 @@ skills:
   summary:
   url:
   list:
-    - label: c++
-      icon: /images/sections/skills/c++.png
-      url:
-    - label: cloud
-      icon: /images/sections/skills/cloud.png
-      url:
-    - label: docker
-      icon: /images/sections/skills/docker.svg
-      url:
-    - label: git
+    - label: Python
+      icon: /images/sections/skills/Python-logo.svg
+    - label: R
+      icon: /images/sections/skills/R_logo.svg.png
+    - label: Stata
+      icon: /images/sections/skills/stata.png
+    - label: Json / YAML
+      icon: /images/sections/skills/json.png
+
+- name: Logiciel
+  logo:
+  list:
+    - label: Git (Githul / Gitlab)
       icon: /images/sections/skills/git.png
-      url:
-    - label: Java
-      icon:
-      url:
-    - label: go
-      icon: /images/sections/skills/go.png
-      url:
-- name: Frameworks
+    - label: Zotero
+      icon: /images/sections/skills/zotero_32x32x32.png
+    - label: Limesurvey
+      icon: /images/sections/skills/Limesurvey_logo.png
+
+- name: Development tools
   logo:
-  summary: "-PyTorch<br/>-Keras<br/>-Django<br/>-Laravel<br/>-Bootstrap"
-  url:
-- name: Database
+  list:
+    - label: Visual Studio Code
+      icon: /images/sections/skills/vscode.svg
+    - label: Jupyter
+      icon: /images/sections/skills/Jupyter_logo.svg
+    - label: Rstudio
+      icon: /images/sections/skills/rstudio_104598.png
+    - label: Overleaf
+      icon: /images/sections/skills/overleaf_logo.png
+
+
+- name: Office automation
   logo:
-  summary: "-MySql<br/>-Oracle<br/>"
-  url:
-- name: Tools
+  list:
+    - label: LaTeX
+      icon: /images/sections/skills/LaTeX_logo.svg.png
+      url:
+    - label: BibTeX
+      icon: /images/sections/skills/BibTeX_logo.svg.png
+    - label: Microsoft Office
+      icon: /images/sections/skills/480px-Microsoft_Office_logo_(2019–present).svg.png
+
+- name: Operating systems
   logo:
-  summary: "-Git<br/>-AndroidStudio<br/>-Matplotlib<br/>-Sklearn<br/>-Pandas"
-  url:
+  list:
+    - label: Windows
+      icon: /images/sections/skills/Windows_logo_2021.svg
+      url:
+    - label: WSL2 (Ubuntu)
+      icon: /images/sections/skills/WSL2_logo.png
+    - label: Ubuntu
+      icon: /images/sections/skills/Logo-ubuntu.svg
+
+- name: Technical skills
+  list:
+    - label: Data and Quantitative analysis
+    - label: Data modeling
+    - label: Data visualization
+    - label: Statistics/Econometrics
+    - label: Advance Microeconomics
+    - label: Macroeconomics

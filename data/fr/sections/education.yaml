@@ -17,7 +17,7 @@ degrees:
     name: Toulouse School of Economics (TSE)
     url: "https://www.tse-fr.eu/erna?lang=en"
   mention: "Bien"
-  about: "J’ai participé au projet “NEWTS” (Nudges for Economics of Water tariffs). Il vise à fournir une évaluation socio-économique des politiques de nudge vert, en se concentrant sur la maîtrise de la consommation d’eau et la bonne compréhension par les ménages du système de tarification."
+  about: "Le master est entièrement enseigné en anglais. Il permet d'acquérir les compétences analytiques nécessaires pour évaluer, analyser et recommander des politiques économiques, tout en offrant un niveau avancé en modélisation microéconomique et macroéconomique ainsi qu'en économétrie."
   # grade: #(optional)
   #   scale: CGPA
   #   achieved: 3.6
@@ -60,6 +60,7 @@ degrees:
   institution:
     name: Toulouse School of Economics (TSE)
     url: "https://www.tse-fr.eu/erna?lang=en"
+  about: "Le master est enseigné entièrement en anglais. C'est un programme académique rigoureux dans les différentes disciplines économiques et les techniques quantitatives pour les sciences sociales."
   # grade: #(optional)
   #   scale: CGPA
   #   achieved: 3.5
@@ -125,6 +126,7 @@ degrees:
   timeframe: 2013-2016
   institution:
     name: Lycée général Pierre Bourdieu
+  mention: Bien
   # grade: #(optional)
   #   scale: GPA
   #   achieved: 4.5
