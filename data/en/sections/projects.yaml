@@ -19,29 +19,57 @@ buttons:
 - name: Hobby
   filter: "hobby"
 
-# your projects
+## Professionnel
 projects:
-- name: In Construction
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "1998 - Present"
+- name: OpenFisca Indirect Taxation
+  logo: /images/sections/projects/logo_openfisca.svg
+  role: developer
+  timeline: "March 2022 - Present"
+  repo: "https://github.com/openfisca/openfisca-france-indirect-taxation/tree/cas-type"
+  summary: I contribute to a fundamental building block of the TAXIPP microsimulation model, from the Institute of Public Policy (IPP),
+   more specifically on the domestic consumption tax on energy products (TICPE),
+    so that this element can be used by the French National Assembly.
+  tags: ["professional", "micro-simulation", "public policy",]
+
+- name: Leximpact
+  logo: /images/sections/projects/Assemblée_nationale_française.svg
+  role: Junior Economist
+  timeline: "March 2022 - Present"
   repo:
-  summary: This section is in creation!
-  tags: ["professional", "kubernetes", "cloud"]
+  url: "https://leximpact.an.fr/"
+  summary: I contribute to a simulator in the framework of social contributions and benefits, developed by LexImpact,
+   a service of the French National Assembly which aims at helping the members of parliament to calculate their amendments and bills.
+  tags: ["professional", "micro-simulation", "law"]
 
-# - name: Tensorflow
-#   logo: /images/sections/projects/tensorflow.png
-#   role: Developer
-#   timeline: "Jun 2018 - Present"
-#   repo: https://github.com/tensorflow/tensorflow
-#   #url: ""
-#   summary: An Open Source Machine Learning Framework for Everyone.
-#   tags: ["professional", "machine-learning","academic"]
+- name: Leximpact fuel prices
+  logo: /images/sections/skills/Python-logo.svg
+  role: author
+  timeline: "March 2022"
+  repo: https://github.com/kendrickherz/LexImpact-Prix-carburants
+  url:
+  summary: Python script that aggregates fuel prices including tax per month, per year and per region or France,
+   using INSEE and Government sources in CSV files. The code and the files are available under
+    GNU license.
+  tags: ["professional", "Python script"]
 
-# - name: Toha
-#   logo: /images/sections/projects/toha.png
-#   role: Owner
-#   timeline: "Jun 2019 - Present"
-#   repo: https://github.com/hossainemruz/toha
-#   summary: A Hugo theme for personal portfolio.
-#   tags: ["hobby","hugo","theme","professional"]
+# Académique
+
+# personnel
+
+- name: Modified Toha theme
+  logo: /images/sections/projects/toha.png
+  role: User
+  timeline: "2022"
+  repo: https://github.com/kendrickherz/toha
+  summary: A slightly modified version of the Hugo theme for personal portfolio, more adapted to my use.
+  tags: ["hobby","hugo","theme"]
+
+- name: Penguins in Antarctica
+  logo: /images/sections/skills/R_logo.svg.png
+  role: author
+  timeline: "2022"
+  repo:
+  url: https://rpubs.com/kendrickh/Penguin_in_antartica
+  summary: "Small personal project I did to have fun and learn how to make maps with R,
+   using a sample of libraries like ggplot2, ggOceanMapsData, ggOceanMaps, sf."
+  tags: ["hobby", "R project", "biodiversity"]

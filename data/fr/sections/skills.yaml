@@ -69,9 +69,7 @@ skills:
 
 - name: Compétences techniques
   list:
-    - label: Analyse quantitative
     - label: Modélisation des données
-    - label: DVisualisation des données
     - label: Statistiques/Économétrie
     - label: Microéconomie avancée
     - label: Macroéconomie

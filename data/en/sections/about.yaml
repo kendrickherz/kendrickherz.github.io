@@ -15,7 +15,7 @@ company:
   url: "https://www2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+# resume: "files/resume.pdf"
 
 # a summary about you
 summary: "I am an economist with a strong appetency for data science.
@@ -63,15 +63,15 @@ badges:
 
 - type: soft-skill-indicator
   name: Public Policy
-  percentage: 100
+  percentage: 85
   color: blue
 
 - type: soft-skill-indicator
   name: Data Analysis
-  percentage: 100
+  percentage: 95
   color: yellow
 
 - type: soft-skill-indicator
   name: Micro-Simulation
-  percentage: 100
+  percentage: 90
   color: orange

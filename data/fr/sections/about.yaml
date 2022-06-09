@@ -15,12 +15,12 @@ company:
   url: https://www.assemblee-nationale.fr/
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+# resume: "files/resume.pdf"
 
 # a summary about you
 summary: "Je suis un économiste avec une forte appétence pour la data science.
  Je suis diplômé d'un master de la [Toulouse School of Economics](https://www.tse-fr.eu/about?lang=en)
-  et je travaille actuellement sur un modèle de micro-simulation de l'Assemblée Nationale"
+  et je travaille actuellement sur un modèle de micro-simulation de l'Assemblée Nationale;"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -62,15 +62,15 @@ badges:
 
 - type: soft-skill-indicator
   name: Public Policy
-  percentage: 100
+  percentage: 85
   color: blue
 
 - type: soft-skill-indicator
   name: Data Analysis
-  percentage: 100
+  percentage: 95
   color: yellow
 
 - type: soft-skill-indicator
   name: Micro-Simulation
-  percentage: 100
+  percentage: 90
   color: orange

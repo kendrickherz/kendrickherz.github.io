@@ -25,7 +25,7 @@ skills:
 #   logo: "/images/sections/skills/cloud.png"
 #   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
 
-- name: Languages
+- name: Programming
   logo:
   summary:
   url:
@@ -86,9 +86,7 @@ skills:
 
 - name: Technical skills
   list:
-    - label: Data and Quantitative analysis
     - label: Data modeling
-    - label: Data visualization
     - label: Statistics/Econometrics
     - label: Advance Microeconomics
     - label: Macroeconomics
