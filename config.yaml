@@ -34,7 +34,7 @@ enableEmoji: true
 # Site parameters
 params:
   # background
-  Background: images/cool-background(8).png
+  Background: images/wall-toulouse-vertical-fondunoir-dessin-br.jpg
   # GitHub repo URL of your site
   gitRepo: https://github.com/kendrickherz/portfolio.git
 
