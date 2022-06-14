@@ -31,7 +31,7 @@ skills:
   url:
   list:
     - label: Python
-      icon: /images/sections/skills/Python-logo.svg
+      icon: /images/sections/skills/Python-logo.jpg
     - label: R
       icon: /images/sections/skills/R_logo.svg.png
     - label: Stata
@@ -53,9 +53,9 @@ skills:
   logo:
   list:
     - label: Visual Studio Code
-      icon: /images/sections/skills/vscode.svg
+      icon: /images/sections/skills/vscode.png
     - label: Jupyter
-      icon: /images/sections/skills/Jupyter_logo.svg
+      icon: /images/sections/skills/Jupyter_logo.jpg
     - label: Rstudio
       icon: /images/sections/skills/rstudio_104598.png
     - label: Overleaf
@@ -77,12 +77,12 @@ skills:
   logo:
   list:
     - label: Windows
-      icon: /images/sections/skills/Windows_logo_2021.svg
+      icon: /images/sections/skills/Windows_logo_2021.jpg
       url:
     - label: WSL2 (Ubuntu)
       icon: /images/sections/skills/WSL2_logo.png
     - label: Ubuntu
-      icon: /images/sections/skills/Logo-ubuntu.svg
+      icon: /images/sections/skills/Logo-ubuntu.jpg
 
 - name: Technical skills
   list:

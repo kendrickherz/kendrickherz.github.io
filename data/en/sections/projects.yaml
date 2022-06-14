@@ -22,7 +22,7 @@ buttons:
 ## Professionnel
 projects:
 - name: OpenFisca Indirect Taxation
-  logo: /images/sections/projects/logo_openfisca.svg
+  logo: /images/sections/projects/logo_openfisca.png
   role: developer
   timeline: "March 2022 - Present"
   repo: "https://github.com/openfisca/openfisca-france-indirect-taxation/tree/cas-type"
@@ -32,7 +32,7 @@ projects:
   tags: ["professional", "micro-simulation", "public policy",]
 
 - name: Leximpact
-  logo: /images/sections/projects/Assemblée_nationale_française.svg
+  logo: /images/sections/projects/Assemblée_nationale_française.jpg
   role: Junior Economist
   timeline: "March 2022 - Present"
   repo:
@@ -42,7 +42,7 @@ projects:
   tags: ["professional", "micro-simulation", "law"]
 
 - name: Leximpact fuel prices
-  logo: /images/sections/skills/Python-logo.svg
+  logo: /images/sections/skills/Python-logo.jpg
   role: author
   timeline: "March 2022"
   repo: https://github.com/kendrickherz/LexImpact-Prix-carburants
