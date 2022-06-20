@@ -20,7 +20,7 @@ company:
 # a summary about you
 summary: "I am an economist with a strong appetency for data science.
  I have a master's degree from [Toulouse School of Economics](https://www.tse-fr.eu/about?lang=en) and I
-  and am currently working on a micro-simulation model of the French National Assembly."
+ am currently working on a micro-simulation model of an apolitical department of the French National Assembly."
 
 
 # your social links
@@ -62,16 +62,16 @@ badges:
   badge: "https://intranet.ut-capitole.fr/medias/photo/ut1c-logo-fr-rvb-128x128_1651152658458-jpg"
 
 - type: soft-skill-indicator
-  name: Public Policy
+  name: Public Policies
   percentage: 85
   color: blue
 
 - type: soft-skill-indicator
-  name: Data Analysis
+  name: Micro-Simulation
   percentage: 95
   color: yellow
 
 - type: soft-skill-indicator
-  name: Micro-Simulation
+  name: Econometrics
   percentage: 90
   color: orange

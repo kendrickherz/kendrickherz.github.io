@@ -47,8 +47,8 @@ projects:
   timeline: "March 2022"
   repo: https://github.com/kendrickherz/LexImpact-Prix-carburants
   url:
-  summary: Python script that aggregates fuel prices including tax per month, per year and per region or France,
-   using INSEE and Government sources in CSV files. The code and the files are available under
+  summary: Python script that aggregates fuel prices including tax per month, per year and per region or France, in CSV files.
+    It's using INSEE and Government sources. The code and the files are available under
     GNU license.
   tags: ["professional", "Python script"]
 
@@ -70,6 +70,6 @@ projects:
   timeline: "2022"
   repo:
   url: https://rpubs.com/kendrickh/Penguin_in_antartica
-  summary: "Small personal project I did to have fun and learn how to make maps with R,
+  summary: "Small personal project I did for fun and learn how to make maps with R,
    using a sample of libraries like ggplot2, ggOceanMapsData, ggOceanMaps, sf."
   tags: ["hobby", "R project", "biodiversity"]

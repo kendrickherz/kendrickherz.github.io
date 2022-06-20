@@ -49,8 +49,8 @@ projects:
   timeline: "Mars 2022"
   repo: https://github.com/kendrickherz/LexImpact-Prix-carburants
   url:
-  summary: Script python qui agrège les prix des carburants TTC par mois, par an et par région ou France entière,
-   en utilisant des sources de l'INSEE et du Gouvernement dans des fichiers CSV. Le code et les fichiers sont disponibles sous
+  summary: Script python qui agrège les prix des carburants TTC par mois, par an et par région ou France entière dans des fichiers CSV.
+   Il utilise des sources de l'INSEE et du Gouvernement. Le code et les fichiers sont disponibles sous
     licence GNU.
   tags: ["professionnel", "script python"]
 
@@ -72,6 +72,6 @@ projects:
   timeline: "2022"
   repo:
   url: https://rpubs.com/kendrickh/Penguin_in_antartica
-  summary: "Petit projet personnel que j'ai fait pour m'amuser et apprendre à faire des cartes avec R,
+  summary: "Petit projet personnel que j'ai fait pour m'amuser et apprendre à faire de la cartographie avec R,
    en utilisant un échantillon de bibliothèques comme ggplot2, ggOceanMapsData, ggOceanMaps, sf."
   tags: ["personnel", "R project", "biodiversité"]
