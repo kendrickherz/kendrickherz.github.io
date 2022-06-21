@@ -15,7 +15,7 @@ company:
   url: https://www.assemblee-nationale.fr/
 
 # your resume. this file path should be relative to you "static" directory
-# resume: "files/resume.pdf"
+resume: "CV_Kendrick_Herzberg_français.pdf"
 
 # a summary about you
 summary: "Je suis un économiste avec une forte appétence pour la data science.
