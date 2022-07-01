@@ -42,7 +42,7 @@ skills:
 - name: Logiciel
   logo:
   list:
-    - label: Git (Githul / Gitlab)
+    - label: Git (Github / Gitlab)
       icon: /images/sections/skills/git.png
     - label: Zotero
       icon: /images/sections/skills/zotero_32x32x32.png
