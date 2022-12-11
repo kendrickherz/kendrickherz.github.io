@@ -11,31 +11,48 @@ section:
 # Your experiences
 experiences:
 - company:
+    name:  Ministère de la transition écologique, Commissariat général au développement durable (CGDD)
+    url: "https://www.ecologie.gouv.fr/commissariat-general-au-developpement-durable-cgdd"
+    location: La Defense, France
+    overview: Je travaille à la Sous-direction de l'économie et de l'évaluation (SDEE) du service de l'économie verte et solidaire (SEVS), sur le modèle de micro-simulation Prométhéus, simulant l'impact social de la fiscalité énergétique.
+  positions:
+  - designation: Datascientist - Politiques environnementales et ménages
+    start: Septembre 2022
+    end: Aujourdhui
+    responsibilities:
+    - Passage du modèle Prométheus du language SAS à R, et amélioration des capacitées de celui ci.
+    - Participarion à la rédaction et publication d'un document de travail sur la méthodologie, les hypothèses, les grands principes et les aspects pratiques du modèle.
+    - Participation à la publication du théma "Précarité énergétique 2021".
+
+- company:
     name: Assemblée Nationale, Direction du Contrôle et de l'Évaluation
     url: "https://www.assemblee-nationale.fr/"
     location: Paris, France
     # company overview
-    overview: Je travaille à LexImpact. C'est un service qui crée des outils de micro-simulation dont le but est d'aider les parlementaires
+    overview: J'ai travaillé à LexImpact. C'est un service qui crée des outils de micro-simulation dont le but est d'aider les parlementaires
      à quantifier leurs amendements et projets de loi dans les domaines de la fiscalité et des affaires sociales.
   positions:
   - designation: Économiste Junior
     start: Mars 2022
+    end: Aout 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Travailler sur Open-Fisca, un logiciel libre de micro-simulation, modélisant le système socio-fiscal français.
-    - Modéliser et étudier l'effet de la taxe intérieure de consommation sur les produits énergétiques (TICPE) au niveau individuel et agrégé.
+    - Création d'un modèle de micro-simulation modélisant toutes les taxes et aides sur les carburants (TICPE, aides exceptionnelles, etc.) et permettant de simuler l'impact d'une réforme paramétrique sur la population française.
+    - Suivi du projet de loi de finances (PLF) en créant des outils et des mémos pour aider les députés à prendre des décisions en quantifiant leurs amendements.
 - company:
     name: Université Toulouse 1 Capitole
     url: "https://www.ut-capitole.fr/accueil/"
     location: Toulouse, France
     overview: L'université Toulouse 1 Capitole est classée 1ère des universités françaises et 22ème du classement Shangaï en "sciences sociales économiques", en 2021.
-     J'enseigne le cours de [Microeconomie de la production](https://www.ut-capitole.fr/formations/nos-diplomes/licences/licence-l1-l2-mention-economie-parcours-type-economie-et-gestion-310345.kjsp)
-      de la Licence d'Économie et de Gestion. Le professeur référent est Madame Lucie Bottega (Lucie.Bottega@ut-capitole.fr).
+     J'enseignais le cours de [Microeconomie de la production](https://www.ut-capitole.fr/formations/nos-diplomes/licences/licence-l1-l2-mention-economie-parcours-type-economie-et-gestion-310345.kjsp)
+      de la Licence d'Économie et de Gestion. Le professeur référent était Madame Lucie Bottega (Lucie.Bottega@ut-capitole.fr).
   positions:
   - designation: Chargé de travaux dirigés, Microeconomie de la Production
     start: Janvier 2022
+    end: Juin 2022
     responsibilities:
     - Enseigner à 2 groupes d'étudiants de 1ère année.
     - Assurer la surveillance des examens.
@@ -65,5 +82,5 @@ experiences:
     end: Juin 2021
     responsibilities:
     - Analyse de la performance des politiques de gestion de la demande en eau dans le domaine de l'efficacité économique.
-    - Création d'un modèle microéconomique incluant l'introduction d'une campagne de nudge.
+    - Création d'un modèle microéconomique avec l'introduction d'une campagne de "green nudging" (incitation verte) en se concentrant sur la régulation de la consommation d'eau et la compréhension adéquate par les ménages du système de tarification par blocs (IBT).
     - Création d'une page web en [Django](https://www.djangoproject.com/) calculant des indicateurs économiques à partir de variables exogènes.

@@ -11,33 +11,44 @@ section:
 # Your experiences
 experiences:
 - company:
+    name:  Ministry of Ecological Transition, General Commission for Sustainable Development (CGDD)
+    url: "https://www.ecologie.gouv.fr/commissariat-general-au-developpement-durable-cgdd"
+    location: La Defense, France
+    overview: I work in the Sub-direction of Economics and Evaluation (SDEE) of the Economy, Green and solidarity economy Service (SEVS), on the Prometheus microsimulation model, simulating the social impact of energy taxation.
+  positions:
+  - designation: Datascientist - Environmental policies and households
+    start: September 2022
+    end: Today
+    responsibilities:
+    - Transition of the Prometheus model from SAS to R, and improvement of its capabilities.
+    - Participation in the drafting and publication of a working document on the methodology, hypotheses, main principles and practical aspects of the model.
+    - Participation in the publication of the theme "Energy precariousness 2021".
+
+- company:
     name: French National Assembly, Control and Evaluation Directorate
     url: "https://www2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly"
     location: Paris, France
     # company overview
-    overview: I work at LexImpact. It's a service that create micro-simulation tools which aims to help parliamentarians
-     to quantify their amendments and bills in the fields of taxation and social affairs.
+    overview: I work at LexImpact. It's a service that create micro-simulation tools which aims to help parliamentarians to quantify their amendments and bills in the fields of taxation and social affairs.
   positions:
   - designation: Junior Economist
     start: March 2022
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+    end: August 2022
     responsibilities:
     - Work on Open-Fisca, a free micro-simulation software, modeling the French socio-fiscal system.
-    - Model and study the effect of the domestic consumption tax on energy products (TICPE) at the individual and aggregate level.
-
+    - Creation of a micro-simulation model modeling all taxes and subsidies on fuels (TICPE, exceptional subsidies, etc.) and allowing to simulate the impact of a parametric reform on the French population.
+    - Monitoring of the budget bill (PLF) by creating tools and memos to help lawmakers make decisions by quantifying their amendments.
 - company:
     name: Toulouse 1 Capitole University
     url: "https://www.ut-capitole.fr/home/"
     location: Toulouse, France
     overview: Toulouse 1 Capitole University is listed 1st among French universities and 22nd of the Shangaï ranking in "social sciences economics", in 2021.
-     I Teach [Microeconomics of Production](https://www.ut-capitole.fr/formations/nos-diplomes/licences/licence-l1-l2-mention-economie-parcours-type-economie-et-gestion-310345.kjsp)
-      in the Economics and Management Degree. The referent professor is Lucie Bottega (Lucie.Bottega@ut-capitole.fr).
+     I was teaching [Microeconomics of Production](https://www.ut-capitole.fr/formations/nos-diplomes/licences/licence-l1-l2-mention-economie-parcours-type-economie-et-gestion-310345.kjsp)
+      in the Economics and Management Degree. The referent professor was Lucie Bottega (Lucie.Bottega@ut-capitole.fr).
   positions:
   - designation: Teaching Assistant, Microeconomics of Production
     start: January 2022
-    # end: June 2021
+    end: June 2021
     responsibilities:
     - Teach 2 groups of 1st year students.
     - Do examination monitoring.
@@ -47,7 +58,7 @@ experiences:
     name: Toulouse 1 Capitole University
     url: "https://www.ut-capitole.fr/home/"
     location: Toulouse, France
-    overview: I was Teaching [Microeconomics 1](https://www.ut-capitole.fr/formations/nos-diplomes/licences/licence-l1-l2-mention-economie-parcours-type-economie-et-gestion-310345.kjsp)
+    overview: I was teaching [Microeconomics 1](https://www.ut-capitole.fr/formations/nos-diplomes/licences/licence-l1-l2-mention-economie-parcours-type-economie-et-gestion-310345.kjsp)
      in the Economics and Management Degree. The referent professor was Philipps Alby (philipe.alby@tse-fr.eu).
   positions:
   - designation: Teaching Assistant, Microeconomics 1
@@ -67,5 +78,5 @@ experiences:
     end: June 2021
     responsibilities:
     - Analysis of the performance of demand management policies in the field of economic efficiency.
-    - Creation of a microeconomic model with the introduction of a nudge campaign.
+    - Creation of a microeconomic model with the introduction of a "green nudging" campaign focusing on regulating water consumption and adequate understanding by households of the increasing block tariff system (IBT).
     - Creation of a web page in [Django](https://www.djangoproject.com/) calculating economic indicators from exogenous variables.
