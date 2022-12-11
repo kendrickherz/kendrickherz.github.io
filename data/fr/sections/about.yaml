@@ -8,19 +8,21 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Économiste Junior
+designation: Datascientist - Politiques environnementales et ménages
 # your company information
 company:
-  name: Assemblée Nationale
-  url: https://www.assemblee-nationale.fr/
+  name: Commissariat général au développement durable (CGDD)
+  url: https://www.ecologie.gouv.fr/commissariat-general-au-developpement-durable-cgdd
 
 # your resume. this file path should be relative to you "static" directory
 resume: "CV_Kendrick_Herzberg_français.pdf"
 
 # a summary about you
-summary: "Je suis un économiste avec une forte appétence pour la data science.
- Je suis diplômé d'un master de la [Toulouse School of Economics](https://www.tse-fr.eu/about?lang=en)
-  et je travaille actuellement sur un modèle de micro-simulation d'un service apolitique de l'Assemblée Nationale."
+summary: "Je suis un Datascientist avec une formation en économie de l'environnement et en
+économetrie de la [Toulouse School of Economics](https://www.tse-fr.eu/about?lang=en).
+Je travaille actuellement à la Sous-direction de l'économie et de l'évaluation (SDEE)
+du service de l'économie verte et solidaire (SEVS), sur le modèle de micro-simulation Prométhéus.
+Ce modèle permet de simuler l'impact social de la fiscalité énergétique."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -46,19 +48,19 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: French National Assembly
+  name: Ministry of Ecological Transition
   url: "https://www2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly"
-  badge: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Logo_de_l%27Assembl%C3%A9e_nationale_fran%C3%A7aise.svg/1017px-Logo_de_l%27Assembl%C3%A9e_nationale_fran%C3%A7aise.svg.png"
+  badge: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Minist%C3%A8re_de_la_Transition_%C3%A9cologique_et_de_la_Coh%C3%A9sion_des_territoires.svg/768px-Minist%C3%A8re_de_la_Transition_%C3%A9cologique_et_de_la_Coh%C3%A9sion_des_territoires.svg.png"
 
 - type: certification
   name: Toulouse School Of Economics
   url: "https://www.tse-fr.eu/about?lang=en"
-  badge: "https://raw.githubusercontent.com/kendrickherz/kendrickherz.github.io/source/assets/images/sections/about/TSE_Logo_2019.png"
+  badge: "https://www.tse-fr.eu/sites/default/files/styles/media_document/public/medias/images/tse_logo_2019_1.png?itok=ROhAm3Rs"
 
 - type: certification
   name: Toulouse 1 Capitole University
   url: "https://www.ut-capitole.fr/home/"
-  badge: "https://intranet.ut-capitole.fr/medias/photo/ut1c-logo-fr-rvb-128x128_1651152658458-jpg"
+  badge: "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2f/Universit%C3%A9_Toulouse_1_%28logo%29.svg/langfr-1024px-Universit%C3%A9_Toulouse_1_%28logo%29.svg.png"
 
 - type: soft-skill-indicator
   name: Politiques Publiques
