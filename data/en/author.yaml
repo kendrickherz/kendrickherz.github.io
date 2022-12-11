@@ -3,7 +3,7 @@ name: "Kendrick Herzberg"
 nickname: "Kendrick"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/profile.jpg"
+image: "images/author/profile2 (2).jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "herzbergkendrick@gmail.com"
@@ -13,8 +13,8 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am an Economist
-  - I am trained to be a data scientist
+  - I have a degree in economics and econometrics
+  - I am a data scientist by profession
+  - I specialize in energy and environmental policy
   - I work on open-source projects
-  - I like working on micro-simulation
-  - I am specialized in energy and environmental policy
+  - I enjoy working on microsimulation models
