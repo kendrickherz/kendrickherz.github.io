@@ -20,6 +20,8 @@ skills:
       icon: /images/sections/skills/Python-logo.jpg
     - label: R
       icon: /images/sections/skills/R_logo.svg.png
+    - label: SQL
+      icon: /images/sections/skills/sql.png
     - label: Sas
       icon: /images/sections/skills/Sas.png
     - label: Stata

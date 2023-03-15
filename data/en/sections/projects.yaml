@@ -21,6 +21,15 @@ buttons:
 
 ## Professionnel
 projects:
+
+- name: Energy poverty indicator
+  logo: /images/sections/about/mariane_logo.jpg
+  role: Co-author
+  timeline: "March 2023"
+  repo: "https://www.ecologie.gouv.fr/sites/default/files/thema_essentiel_25_precarite_energetique_2021_mars2023.pdf"
+  summary: "Energy poverty in 2021: a limited increase thanks to the energy voucher, théma essentiel, CGDD"
+  tags: ["professional", "micro-simulation", "public policy",]
+
 - name: OpenFisca Indirect Taxation
   logo: /images/sections/projects/logo_openfisca.png
   role: developer

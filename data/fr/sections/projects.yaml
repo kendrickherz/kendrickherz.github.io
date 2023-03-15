@@ -23,11 +23,20 @@ buttons:
 
 ## Professionnel
 projects:
+
+- name: Indicateur de précarité énergetique
+  logo: /images/sections/about/mariane_logo.jpg
+  role: Co-auteur
+  timeline: "Mars 2023"
+  repo: "https://www.ecologie.gouv.fr/sites/default/files/thema_essentiel_25_precarite_energetique_2021_mars2023.pdf"
+  summary: "La précarité énergétique en 2021 : une hausse limitée par le chèque énergie, théma essentiel, CGDD"
+  tags: ["professionnel", "micro-simulation", "politique publique",]
+
 - name: OpenFisca Indirect Taxation
   logo: /images/sections/projects/logo_openfisca.svg
   role: développeur
-  timeline: "Mars 2022 - Present"
-  repo: "https://github.com/openfisca/openfisca-france-indirect-taxation/tree/cas-type"
+  timeline: "Mars 2022 - Septembre 2022"
+  url: "https://github.com/openfisca/openfisca-france-indirect-taxation/tree/cas-type"
   summary: Je contribue à un élément fondamental du modèle de microsimulation TAXIPP, de l'institut des politiques publiques (IPP),
    plus particulièrement sur la Taxe intérieure de consommation sur les produits énergétiques (TICPE),
     afin que cet élément puisse être utilisé par l'Assemblée Nationale.
@@ -36,7 +45,7 @@ projects:
 - name: Leximpact
   logo: /images/sections/projects/Assemblée_nationale_française.svg
   role: Economiste Junior
-  timeline: "Mars 2022 - Present"
+  timeline: "Mars 2022 - Septembre 2022"
   repo:
   url: "https://leximpact.an.fr/"
   summary: Je contribue à un simulateur dans le cadre des cotisations et prestations sociales, développé par LexImpact,

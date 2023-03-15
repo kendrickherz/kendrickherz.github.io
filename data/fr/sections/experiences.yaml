@@ -20,9 +20,11 @@ experiences:
     start: Septembre 2022
     end: Aujourdhui
     responsibilities:
+    - Création d'une application en RShiny pour valoriser les données et faciliter la réalisation d'études.
+    - Co-auteur de "La précarité énergétique en 2021 - une hausse limitée par le chèque énergie", Théma essentiel, CGDD.
+    - Participation à la publication de l'ONPE "Tableau de bord de la précarité énergétique".
     - Passage du modèle Prométheus du language SAS à R, et amélioration des capacitées de celui ci.
     - Participarion à la rédaction et publication d'un document de travail sur la méthodologie, les hypothèses, les grands principes et les aspects pratiques du modèle.
-    - Participation à la publication du théma "Précarité énergétique 2021".
 
 - company:
     name: Assemblée Nationale, Direction du Contrôle et de l'Évaluation

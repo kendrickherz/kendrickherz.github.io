@@ -20,9 +20,11 @@ experiences:
     start: September 2022
     end: Today
     responsibilities:
-    - Transition of the Prometheus model from SAS to R, and improvement of its capabilities.
-    - Participation in the drafting and publication of a working document on the methodology, hypotheses, main principles and practical aspects of the model.
-    - Participation in the publication of the theme "Energy precariousness 2021".
+    - Creation of an RShiny application to enhance data value and facilitate research studies.
+    - Co-author of "Energy precarity in 2021 - limited increase thanks to energy voucher", Essential Theme, CGDD.
+    - Participation in the publication of the ONPE "Dashboard of Energy Precarity".
+    - Migration of the Prometheus model from SAS language to R, and enhancement of its capabilities.
+    - Participation in the drafting and publishing of a working document on the methodology, assumptions, principles, and practical aspects of the model.
 
 - company:
     name: French National Assembly, Control and Evaluation Directorate

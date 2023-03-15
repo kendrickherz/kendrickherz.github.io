@@ -36,6 +36,8 @@ skills:
       icon: /images/sections/skills/R_logo.svg.png
     - label: Sas
       icon: /images/sections/skills/Sas.png
+    - label: SQL
+      icon: /images/sections/skills/sql.png
     - label: Stata
       icon: /images/sections/skills/stata.png
     - label: Json / YAML
