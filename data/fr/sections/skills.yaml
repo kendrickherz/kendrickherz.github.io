@@ -11,69 +11,69 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Languages
-  logo:
-  summary:
-  url:
-  list:
-    - label: Python
-      icon: /images/sections/skills/Python-logo.jpg
-    - label: R
-      icon: /images/sections/skills/R_logo.svg.png
-    - label: SQL
-      icon: /images/sections/skills/sql.png
-    - label: Sas
-      icon: /images/sections/skills/Sas.png
-    - label: Stata
-      icon: /images/sections/skills/stata.png
-    - label: Json / YAML
-      icon: /images/sections/skills/json.png
+  - name: Languages
+    logo:
+    summary:
+    url:
+    list:
+      - label: Python
+        icon: /images/sections/skills/Python-logo.jpg
+      - label: R
+        icon: /images/sections/skills/R_logo.svg.png
+      - label: Sas
+        icon: /images/sections/skills/Sas.png
+      - label: Stata
+        icon: /images/sections/skills/stata.png
+      - label: SQL
+        icon: /images/sections/skills/sql.png
+      - label: Json / YAML
+        icon: /images/sections/skills/json.png
 
-- name: Logiciel
-  list:
-    - label: Git (Github / Gitlab)
-      icon: /images/sections/skills/git.png
-    - label: Zotero
-      icon: /images/sections/skills/zotero_32x32x32.png
-    - label: Limesurvey
-      icon: /images/sections/skills/Limesurvey_logo.png
+  - name: Logiciel
+    list:
+      - label: Git (Github / Gitlab)
+        icon: /images/sections/skills/git.png
+      - label: Zotero
+        icon: /images/sections/skills/zotero_32x32x32.png
+      - label: Limesurvey
+        icon: /images/sections/skills/Limesurvey_logo.png
 
-- name: Outils de Programmation
-  list:
-    - label: Visual Studio Code
-      icon: /images/sections/skills/vscode.png
-    - label: Jupyter
-      icon: /images/sections/skills/Jupyter_logo.jpg
-    - label: Rstudio
-      icon: /images/sections/skills/rstudio_104598.png
-    - label: Overleaf
-      icon: /images/sections/skills/overleaf_logo.png
+  - name: Outils de Programmation
+    list:
+      - label: Visual Studio Code
+        icon: /images/sections/skills/vscode.png
+      - label: Jupyter
+        icon: /images/sections/skills/Jupyter_logo.jpg
+      - label: Rstudio
+        icon: /images/sections/skills/rstudio_104598.png
+      - label: Overleaf
+        icon: /images/sections/skills/overleaf_logo.png
 
-- name: Bureautique
-  logo:
-  list:
-    - label: LaTeX
-      icon: /images/sections/skills/LaTeX_logo.svg.png
-      url:
-    - label: BibTeX
-      icon: /images/sections/skills/BibTeX_logo.svg.png
-    - label: Microsoft Office
-      icon: /images/sections/skills/480px-Microsoft_Office_logo_(2019–present).svg.png
+  - name: Bureautique
+    logo:
+    list:
+      - label: LaTeX
+        icon: /images/sections/skills/LaTeX_logo.svg.png
+        url:
+      - label: BibTeX
+        icon: /images/sections/skills/BibTeX_logo.svg.png
+      - label: Microsoft Office
+        icon: /images/sections/skills/480px-Microsoft_Office_logo_(2019–present).svg.png
 
-- name: Systèmes d'exploitation
-  logo:
-  list:
-    - label: Windows
-      icon: /images/sections/skills/Windows_logo_2021.jpg
-      url:
-    - label: WSL2 (Ubuntu)
-      icon: /images/sections/skills/WSL2_logo.png
-    - label: Ubuntu
-      icon: /images/sections/skills/Logo-ubuntu.jpg
+  - name: Systèmes d'exploitation
+    logo:
+    list:
+      - label: Windows
+        icon: /images/sections/skills/Windows_logo_2021.jpg
+        url:
+      - label: WSL2 (Ubuntu)
+        icon: /images/sections/skills/WSL2_logo.png
+      - label: Ubuntu
+        icon: /images/sections/skills/Logo-ubuntu.jpg
 
-- name: Compétences techniques
-  list:
-    - label: Modélisation de données
-    - label: Statistiques/Économétrie
-    - label: Microéconomie avancée
-    - label: Macroéconomie
+  - name: Compétences techniques
+    list:
+      - label: Modélisation de données
+      - label: Statistiques/Économétrie
+      - label: Microéconomie avancée
+      - label: Macroéconomie

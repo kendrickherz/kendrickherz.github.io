@@ -11,86 +11,85 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-# - name: Kubernetes
-#   logo: "/images/sections/skills/kubernetes.png"
-#   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-#   url: "https://kubernetes.io/"
+  # - name: Kubernetes
+  #   logo: "/images/sections/skills/kubernetes.png"
+  #   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  #   url: "https://kubernetes.io/"
 
-# - name: Go Development
-#   logo: "/images/sections/skills/go.png"
-#   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-#   url: "https://golang.org/"
+  # - name: Go Development
+  #   logo: "/images/sections/skills/go.png"
+  #   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  #   url: "https://golang.org/"
 
-# - name: Cloud Computing
-#   logo: "/images/sections/skills/cloud.png"
-#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  # - name: Cloud Computing
+  #   logo: "/images/sections/skills/cloud.png"
+  #   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
 
-- name: Programming
-  logo:
-  summary:
-  url:
-  list:
-    - label: Python
-      icon: /images/sections/skills/Python-logo.jpg
-    - label: R
-      icon: /images/sections/skills/R_logo.svg.png
-    - label: Sas
-      icon: /images/sections/skills/Sas.png
-    - label: SQL
-      icon: /images/sections/skills/sql.png
-    - label: Stata
-      icon: /images/sections/skills/stata.png
-    - label: Json / YAML
-      icon: /images/sections/skills/json.png
+  - name: Programming
+    logo:
+    summary:
+    url:
+    list:
+      - label: Python
+        icon: /images/sections/skills/Python-logo.jpg
+      - label: R
+        icon: /images/sections/skills/R_logo.svg.png
+      - label: Sas
+        icon: /images/sections/skills/Sas.png
+      - label: Stata
+        icon: /images/sections/skills/stata.png
+      - label: SQL
+        icon: /images/sections/skills/sql.png
+      - label: Json / YAML
+        icon: /images/sections/skills/json.png
 
-- name: Logiciel
-  logo:
-  list:
-    - label: Git (Github / Gitlab)
-      icon: /images/sections/skills/git.png
-    - label: Zotero
-      icon: /images/sections/skills/zotero_32x32x32.png
-    - label: Limesurvey
-      icon: /images/sections/skills/Limesurvey_logo.png
+  - name: Logiciel
+    logo:
+    list:
+      - label: Git (Github / Gitlab)
+        icon: /images/sections/skills/git.png
+      - label: Zotero
+        icon: /images/sections/skills/zotero_32x32x32.png
+      - label: Limesurvey
+        icon: /images/sections/skills/Limesurvey_logo.png
 
-- name: Development tools
-  logo:
-  list:
-    - label: Visual Studio Code
-      icon: /images/sections/skills/vscode.png
-    - label: Jupyter
-      icon: /images/sections/skills/Jupyter_logo.jpg
-    - label: Rstudio
-      icon: /images/sections/skills/rstudio_104598.png
-    - label: Overleaf
-      icon: /images/sections/skills/overleaf_logo.png
+  - name: Development tools
+    logo:
+    list:
+      - label: Visual Studio Code
+        icon: /images/sections/skills/vscode.png
+      - label: Jupyter
+        icon: /images/sections/skills/Jupyter_logo.jpg
+      - label: Rstudio
+        icon: /images/sections/skills/rstudio_104598.png
+      - label: Overleaf
+        icon: /images/sections/skills/overleaf_logo.png
 
+  - name: Office automation
+    logo:
+    list:
+      - label: LaTeX
+        icon: /images/sections/skills/LaTeX_logo.svg.png
+        url:
+      - label: BibTeX
+        icon: /images/sections/skills/BibTeX_logo.svg.png
+      - label: Microsoft Office
+        icon: /images/sections/skills/480px-Microsoft_Office_logo_(2019–present).svg.png
 
-- name: Office automation
-  logo:
-  list:
-    - label: LaTeX
-      icon: /images/sections/skills/LaTeX_logo.svg.png
-      url:
-    - label: BibTeX
-      icon: /images/sections/skills/BibTeX_logo.svg.png
-    - label: Microsoft Office
-      icon: /images/sections/skills/480px-Microsoft_Office_logo_(2019–present).svg.png
+  - name: Operating systems
+    logo:
+    list:
+      - label: Windows
+        icon: /images/sections/skills/Windows_logo_2021.jpg
+        url:
+      - label: WSL2 (Ubuntu)
+        icon: /images/sections/skills/WSL2_logo.png
+      - label: Ubuntu
+        icon: /images/sections/skills/Logo-ubuntu.jpg
 
-- name: Operating systems
-  logo:
-  list:
-    - label: Windows
-      icon: /images/sections/skills/Windows_logo_2021.jpg
-      url:
-    - label: WSL2 (Ubuntu)
-      icon: /images/sections/skills/WSL2_logo.png
-    - label: Ubuntu
-      icon: /images/sections/skills/Logo-ubuntu.jpg
-
-- name: Technical skills
-  list:
-    - label: Data modeling
-    - label: Statistics/Econometrics
-    - label: Advance Microeconomics
-    - label: Macroeconomics
+  - name: Technical skills
+    list:
+      - label: Data modeling
+      - label: Statistics/Econometrics
+      - label: Advance Microeconomics
+      - label: Macroeconomics

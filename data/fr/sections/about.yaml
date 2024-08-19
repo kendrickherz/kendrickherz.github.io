@@ -8,21 +8,19 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Datascientist - Politiques environnementales et ménages
+designation: Datascientist 
 # your company information
 company:
-  name: Commissariat général au développement durable (CGDD)
-  url: https://www.ecologie.gouv.fr/commissariat-general-au-developpement-durable-cgdd
+  name: Ministère de l'Enseignement supérieur et de la Recherche 
+  url: https://www.enseignementsup-recherche.gouv.fr/fr
 
 # your resume. this file path should be relative to you "static" directory
-resume: "CV_Kendrick_2023_FR.pdf"
+resume: "CV_Herzberg_Kendrick.pdf"
 
 # a summary about you
-summary: "Je suis un Datascientist avec une formation en économie de l'environnement et en
-économetrie de la [Toulouse School of Economics](https://www.tse-fr.eu/about?lang=en).
-Je travaille actuellement à la Sous-direction de l'économie et de l'évaluation (SDEE)
-du service de l'économie verte et solidaire (SEVS), sur le modèle de micro-simulation Prométhéus.
-Ce modèle permet de simuler l'impact social de la fiscalité énergétique."
+summary: "Je suis Data Scientist, spécialisé en économie et économétrie, diplômé du grand établissement [Toulouse School of Economics](https://www.tse-fr.eu/about?lang=en). 
+Actuellement, je travaille sur le projet prioritaire [InserSup](https://www.enseignementsup-recherche.gouv.fr/fr/insersup-note-methodologique-94050) et 
+j'enseigne également à l'[EDHEC Business School](https://www.edhec.edu/en)."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -48,9 +46,9 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Ministry of Ecological Transition
-  url: "https://www2.assemblee-nationale.fr/langues/welcome-to-the-english-website-of-the-french-national-assembly"
-  badge: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Minist%C3%A8re_de_la_Transition_%C3%A9cologique_et_de_la_Coh%C3%A9sion_des_territoires.svg/768px-Minist%C3%A8re_de_la_Transition_%C3%A9cologique_et_de_la_Coh%C3%A9sion_des_territoires.svg.png"
+  name: Ministère de l'Enseignement supérieur et de la Recherche
+  url: "https://www.enseignementsup-recherche.gouv.fr/fr"
+  badge: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Minist%C3%A8re_de_l%27Enseignement_Sup%C3%A9rieur_et_de_la_Recherche.png"
 
 - type: certification
   name: Toulouse School Of Economics
@@ -58,21 +56,21 @@ badges:
   badge: "https://www.tse-fr.eu/sites/default/files/styles/media_document/public/medias/images/tse_logo_2019_1.png?itok=ROhAm3Rs"
 
 - type: certification
-  name: Toulouse 1 Capitole University
-  url: "https://www.ut-capitole.fr/home/"
-  badge: "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2f/Universit%C3%A9_Toulouse_1_%28logo%29.svg/langfr-1024px-Universit%C3%A9_Toulouse_1_%28logo%29.svg.png"
+  name: EDHEC Business School
+  url: "https://www.edhec.edu/en"
+  badge: "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/307978973_10160542071293552_5813351136611738559_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=EvcmJ7uC7gwQ7kNvgFgRwF-&_nc_ht=scontent-cdg4-2.xx&oh=00_AYAmVo8xe7mOG7gqpFhIaBMjXGTzc-6c6V-wFjzrx8cMDQ&oe=66C9658E"
 
 - type: soft-skill-indicator
   name: Politiques Publiques
-  percentage: 85
-  color: blue
-
-- type: soft-skill-indicator
-  name: Économetrie
-  percentage: 95
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
-  name: Micro-Simulation
-  percentage: 90
+  name: Data Science
+  percentage: 100
+  color: blue
+
+- type: soft-skill-indicator
+  name: Enseignement
+  percentage: 100
   color: orange
